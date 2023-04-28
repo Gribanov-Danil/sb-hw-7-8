@@ -1,0 +1,36 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container {
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+svg {
+    width: 60px;
+    height: 60px;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+}
+
+.button {
+    width: 100%;
+    height: 30px;
+    background-color: #c0c0ff;
+}
